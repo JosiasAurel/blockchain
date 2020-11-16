@@ -1,0 +1,19 @@
+{
+  "name": "js-blockchain",
+  "version": "1.0.0",
+  "description": "A simple blockchain implemented in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "BlockChain",
+    "chains",
+    "blocks"
+  ],
+  "author": "Josias Aurel",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
